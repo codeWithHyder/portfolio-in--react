@@ -35,7 +35,7 @@ const Contact = () => {
             {errors.email && touched.email && <p className='text-red-600 pl-20 mt-0'>{errors.email}</p>}
           </div>
           <div className='w-[100%] mt-5'>
-            <Field className='w-[80%] h-[10rem] pl-2 ml-3 rounded-lg sm:ml-16' type='textarea' placeholder='write message' name='message' required />
+            <Field className='w-[80%] h-[10rem] pl-2 ml-16 rounded-lg sm:ml-16' type='textarea' placeholder='write message' name='message' required />
             {errors.message && touched.message && <p className='text-red-600 pl-20 mt-0'>{errors.message}</p>}
           </div>
           <div className='h-20 ml-16 w-[100%] pb-1 my-4'><button className='w-15 h-12 rounded-lg bg-slate-700 p-4 text-slate-50 hover:bg-slate-900 transition-all' type='submit'>Get in touch</button></div>
