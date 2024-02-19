@@ -19,7 +19,7 @@ const About = () => {
           
         </div>
         <div className='w-[100%] rounded-lg sm:w-[40%]'>
-          <img src='./public/images/codingimg.avif' alt='coding image' className='w-[90%] rounded-3xl p-5 border' />
+          <img src='./public/codingimg.avif' alt='coding image' className='w-[90%] rounded-3xl p-5 border' />
         </div>
     </div>
   )
