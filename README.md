@@ -14,4 +14,4 @@ Dependencies:
  to clone this code base 
  'https://github.com/codeWithHyder/portfolio-in-react.git
 
-[Live  demo] : (https://my-portfolio2-8b709.web.app/)
+[Live  demo] : (https://65d3653e95d8190ac17f03de--magnificent-cupcake-2d7cd9.netlify.app/)
