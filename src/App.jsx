@@ -11,7 +11,7 @@ import Footer from "./components/Footer"
 function App() {
   
   return (
-    <main className="text-gray-400 bg-gray-900 body-font w-full h-auto">
+    <main className="text-gray-400 bg-zinc-900 body-font w-full h-auto">
       <Navbar />
       <Home />
       <About />

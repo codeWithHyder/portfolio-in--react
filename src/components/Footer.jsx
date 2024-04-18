@@ -2,7 +2,7 @@ import React from 'react'
 import { FaGithub, FaTwitter, FaLinkedin } from 'react-icons/fa'
 const Footer = () => {
   return (
-    <div className='w-[100%] h-20 bg-slate-700 flex flex-wrap justify-between items-center'>
+    <div className='w-[100%] h-20 bg-zinc-900 flex flex-wrap justify-between items-center border border-t-gray-800'>
       <div className='ml-5 text-sm w-[50%]'>
         <p>Copy right &copy; reserved with Ghulam Hyder Dar</p>
         <p>Developed and designed by HA</p>
