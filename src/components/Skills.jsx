@@ -3,7 +3,7 @@ import skillsSet from '../utility/DataLanguages'
 
 const Skills = () => {
   return (
-    <div className='w-[85%] h-[85rem] bg-zinc-800 shadow-2xl text-center mb-20 rounded-lg mx-5 md:h-auto py-3' id='skills'>
+    <div className='w-[70%] h-[85rem] bg-zinc-800 shadow-2xl text-center mb-20 rounded-lg mx-5 md:h-auto md:ml-36 py-3' id='skills'>
       <h4 className='text-3xl font-extrabold'>Professional <span className='text-orange-500 font-sans'>SkillSet</span></h4>
       <div className='flex justify-center items-center m-5 flex-wrap'>
         {skillsSet.map((skillset, index) => {
